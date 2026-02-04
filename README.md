@@ -1,4 +1,4 @@
-# movieKernel
+# movieCRUD
 
 A lightweight Go REST API for managing movies. Built with Gorilla Mux.
 
